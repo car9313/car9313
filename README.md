@@ -2,7 +2,8 @@
 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***About me***
 
 I'm a Computer Science Engineering graduate from IIIT-Hyderabad, specializing in modern web development. My core expertise includes:
 Frontend Development: HTML5, CSS3 (Flexbox, Grid, CSS-in-JS), responsive design principles, and cross-browser compatibility.
