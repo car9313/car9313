@@ -12,11 +12,11 @@ Frameworks: React (Hooks, Redux, Context API) and Angular (RxJS, NgModules).
 
 Technical Proficiencies:
 
-Languages: JavaScript/TypeScript, Python, C, C++, Shell
+Languages: JavaScript/TypeScript
 
 Frontend: React, Angular, Responsive UI/UX Design
 
-Tools: Webpack, Babel, Git
+Tools: Git
 
 Concepts: REST APIs, Component-Based Architecture
 
